@@ -6,35 +6,75 @@ Nigeria's economy is moving to 29.90% inflation in January 2024, up from 28.92% 
 To analyze and report on the sustainable jobs and skills against inflation in Nigeria.
 ## TOOLS USED
 Excel, SQL, Power BI	
-## Visuals Showing  Various Steps 
-### Data set Preview
-![Altera Data set Pics](https://github.com/user-attachments/assets/99aee68f-50f8-454a-9491-6a2dca0850a5)
 
-### Data Set and Measures Preview
-After importing the data set, adequate data cleaning was carried out and measures for reports was created using DAX.
-![altera data set and measure](https://github.com/user-attachments/assets/69abfb1b-b162-4cf0-9aae-edc3c10b56ea)
+# DATA COLLECTION
+Based on the high interest of the analysis  uncleaned data was collected from various sources online and saved to an excel worksheet having three sheets.
 
-### Dashboard
-![Altera HR Dashboard](https://github.com/user-attachments/assets/d2d08023-4429-4bbd-a32d-807d0bd40285)
+Sheet 1:  Nigeria Sustainable jobs  (6 Columns and 10 Rows)
+Header Includes: S/N, Job Title,  Average Salary (NGN), Growth Rate (%) Inflation Resistance , Skill Requirements.
 
-## Derivable Insights
- 1. Total Employees 
- 2. Employment Type Breakdown
- 3. Employee Recruitment Channels
- 4. Gender Distribution
- 5. Department Overview
- 6. Location Distribution 
- 7. Training Metrics 
- 8. Awards and Recognition
- 9. Employee Age Distribution
- 10.Education Level 
+Sheet 2: Job and skills requirement  (4 Columns and 10 Rows)
+Header Include: S/N, Skill, Job Title, Importance (1-5)
 
+Sheet 3:  Inflation resistance data  (2 Columns and 10 Rows)
+## Sources:
+1. National Bureau of Statistics (NBS) - Nigeria
+2. Nigerian Labour Market Report 2022
+3. Jobber man Nigeria Salary Report 2022
+4. PWC Nigeria's 2024 Economic Outlook
+5. World Bank's 2024 Nigeria Economic Update
+## Data set now on Kaggle:
+https://www.kaggle.com/datasets/dunmininuolugbade/sustainable-jobs-and-skills-resistant-to-inflation
 
+# DATA CLEANING 
+Tool Used: Excel
+## Data Cleaning Steps :
+Excel was used to carry out the following steps:
+1. Duplicates , missing values,  and blanks are checked  and necessary corrections  were made in the three sheets. 
+2. Data types for each column was checked and fixed to the correct format 
+3. “S/N” column was dropped 
+4. Header Name “Importance (1-5)” was renamed to “Ratings”
+5. Job  Title and Job resistance rate where place properly into individual column.  
+Other necessary cleaning process was done and the tables were saved into three different tables  before joining them in SQL.
+## Tables Atfter Cleaning
+### Table 1
+![image](https://github.com/user-attachments/assets/35e79713-5a69-467a-bfcf-7e8324dbf7c4)
 
+### Table 2
+![image](https://github.com/user-attachments/assets/6cec08cc-00b3-4a19-aaa3-dae8f530fafc)
 
+### Table 3
+![image](https://github.com/user-attachments/assets/e9df04ad-1c82-45e0-9efa-e5f8e40c3c75)
 
+## Table Joining:
+Tool Used: SQL
+SQL was used to join the three tables together using queries before importing the table as one for further manipulation in Power Bi.
+![image](https://github.com/user-attachments/assets/656cf9b8-f9e2-4281-8fdf-b7c4591c0af9)
 
+# DATA VISUALIZATION
+Tool Used: Power BI
 
+1.The  mean from the “rating” column  that involve  the same  job but different skills was used for average rating.
+2.“Skills” column was dropped for further analysis 
+3. “Job title” was rename to “Job”
+4.All data type was checked for appropriate report
+Other  measures was done for proper visuals on the report.
+## Dashboard:
+![image](https://github.com/user-attachments/assets/d8645cee-a08c-49bb-9259-1025d5074b63)
+
+## KEY FINDINGS:
+### Job by inflation Resistance Level:
+![image](https://github.com/user-attachments/assets/f01f976f-7e77-41de-bca1-507d969b671b)
+Cyber-Security Specialist, Data Scientist, Medical Specialist, Software Developer has high inflation resistance than other sustainable jobs.
+### Job by Growth Rate:
+![image](https://github.com/user-attachments/assets/f7debe2e-8817-4206-92eb-cedae402b645)
+Renewable Energy Engineer, Cyber-Security Specialist and Data Scientist has high growth rate of 20%, 18%, 18% respectively. This means they are in high demand although among these three Renewable Energy Engineer is has low inflation resistance with a better average salary than Cyber-Security Specialist. 
+### Job by Average Salary:
+![image](https://github.com/user-attachments/assets/f4e7e5eb-e34a-47d6-a4d7-25e15c3b4354)
+Software Developer, Medical Specialist and Data Scientist (In order of pay) among top 10 are highly paid. Although all these top three has high resistance to inflation but Data Scientist has higher growth rate than the other two.
+### Job by Average Salary:
+![image](https://github.com/user-attachments/assets/4a16e201-c2a6-4cf1-b85f-6adc77b1bdc5)
+Medical Specialist has the highest rating of 5/5 than others.
 
 
 
