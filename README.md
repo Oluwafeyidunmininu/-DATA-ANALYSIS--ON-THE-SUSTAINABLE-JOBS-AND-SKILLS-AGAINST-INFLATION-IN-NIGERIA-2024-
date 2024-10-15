@@ -1,11 +1,11 @@
-# DATA ANALYSIS ON THE SUSTAINABLE JOBS AND SKILLS AGAINST INFLATION IN NIGERIA (2024)
+# DATA ANALYSIS ON THE SUSTAINABLE JOBS AND SKILLS AGAINST INFLATION IN NIGERIA(2024)
 ![main sustainble job](https://github.com/user-attachments/assets/6980c91c-0f7b-4da7-bd36-28d35ed3878a)
 # INTRODUCTION
 Nigeria's economy is moving to 29.90% inflation in January 2024, up from 28.92% the previous month as brought alarm and  trend underscores to identify resilient jobs and skills capable of withstanding economic inflation.In this context, understanding the intersection of  sustainable jobs with growth prospects and resistant to inflation and remuneration is vital. This report presents key findings on Nigeria's most inflation-resistant, high-growth and high-paying jobs, alongside recommendations for a good standard of living
-# Aim
+# AIM
 To analyze and report on the sustainable jobs and skills against inflation in Nigeria.
-## Data Source
-Kaggle: Altera_Emp_Data.xlsx
+## TOOLS USED
+Excel, SQL, Power BI	
 ## Visuals Showing  Various Steps 
 ### Data set Preview
 ![Altera Data set Pics](https://github.com/user-attachments/assets/99aee68f-50f8-454a-9491-6a2dca0850a5)
