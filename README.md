@@ -17,4 +17,4 @@ Header Include: Job Title, Inflation Resistance (High/Medium/Low)
 4. PWC Nigeria's 2024 Economic Outlook
 5. World Bank's 2024 Nigeria Economic Update
 
-Data set  now on Kaggle: https://www.kaggle.com/datasets/dunmininuolugbade/sustainable-jobs-and-skills-resistant-to-inflation
+- Data set  now on Kaggle: https://www.kaggle.com/datasets/dunmininuolugbade/sustainable-jobs-and-skills-resistant-to-inflation
