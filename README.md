@@ -58,6 +58,9 @@ SQL was used to join the three tables together using queries before importing th
 
 ![SUS  TABLE JOINING  PROJECT ](https://github.com/user-attachments/assets/5f43b783-a884-44e4-a3b5-59da719ca17b)
 
+Check the query here
+https://github.com/Oluwafeyidunmininu/-DATA-ANALYSIS--ON-THE-SUSTAINABLE-JOBS-AND-SKILLS-AGAINST-INFLATION-IN-NIGERIA-2024-/blob/main/SQL%20Joining%20%20tables%20of%20the%20Sustainable%20Nigeria%20Jobs%20over%20inflation%20in%20%202024.sql 
+
 # DATA VISUALIZATION
 Tool Used: Power BI
 
