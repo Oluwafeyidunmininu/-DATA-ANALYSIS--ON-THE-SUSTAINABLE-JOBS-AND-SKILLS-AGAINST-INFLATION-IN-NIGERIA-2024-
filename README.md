@@ -56,7 +56,7 @@ Tool Used: SQL
 
 SQL was used to join the three tables together using queries before importing the table as one for further manipulation in Power Bi.
 
-![image](https://github.com/user-attachments/assets/656cf9b8-f9e2-4281-8fdf-b7c4591c0af9)
+![SUS  TABLE JOINING  PROJECT ](https://github.com/user-attachments/assets/5f43b783-a884-44e4-a3b5-59da719ca17b)
 
 # DATA VISUALIZATION
 Tool Used: Power BI
