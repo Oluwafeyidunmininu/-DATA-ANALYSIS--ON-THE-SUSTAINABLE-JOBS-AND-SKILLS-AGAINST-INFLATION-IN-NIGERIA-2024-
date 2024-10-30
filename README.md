@@ -93,3 +93,21 @@ Software Developer, Medical Specialist and Data Scientist (In order of pay) amon
 ![image](https://github.com/user-attachments/assets/4a16e201-c2a6-4cf1-b85f-6adc77b1bdc5)
 
 Medical Specialist has the highest rating of 5/5 than others.
+
+### CONCLUSION
+Inflation significantly impacts job sustainability in Nigeria, particularly to live above inflation there are required job with specialized skills needed to  have a good standard of living. Knowing the jobs and  having the skills brings about adequate income to live above inflation. With this research people will focus on skills that brings about high resistance job against inflation most especially skills with high growth rate and high resistance to inflation over a long period of time so as to live above inflation in Nigeria.
+
+### RECOMMENDATIONS
+Based on the key findings, the following recommendations are proposed to leverage Nigeria's inflation-resistant, high-growth and high-paying job opportunities:
+1. People should consider high resistance sustainable jobs and skills for a good standard of living 
+2. Awareness programs on skills and job with high resistance to inflation especially the ones in high demand should be organize.
+3. Implementing skills development programs for jobs.
+4. Enhancing monetary policy for skill acquisition for jobs.
+
+### LIMITATIONS
+Data sourcing limitation
+
+### FUTURE RESEARCH DIRECTIONS
+1. Analysis on  each skills in various job sectors should be carried out so as to know the best  rated skill for effectiveness in each job sectors along side with each skill ratings and job growth.
+2. Analysis on cost requirement for acquiring skills for various job.
+
