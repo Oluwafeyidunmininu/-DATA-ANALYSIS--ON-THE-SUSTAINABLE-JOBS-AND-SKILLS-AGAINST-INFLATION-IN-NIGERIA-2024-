@@ -89,7 +89,7 @@ Renewable Energy Engineer, Cyber-Security Specialist and Data Scientist has high
 
 Software Developer, Medical Specialist and Data Scientist (In order of pay) among top 10 are highly paid. Although all these top three has high resistance to inflation but Data Scientist has higher growth rate than the other two.
 
-### Job by Average Salary:
+### Job by Rating:
 ![image](https://github.com/user-attachments/assets/4a16e201-c2a6-4cf1-b85f-6adc77b1bdc5)
 
 Medical Specialist has the highest rating of 5/5 than others.
